@@ -31,7 +31,7 @@ public class AppliToolsDemo {
         //Setup of Applitools Eyes
         eyes = new Eyes();
         //Set API Key of Eyes
-        eyes.setApiKey("RQiNJdjsA4lxbk4bevRCo103hWdDPxU3xiQPp1023TSA5wI110");
+        eyes.setApiKey("YOUR IP KEY");
         //Set Match Level
         eyes.setMatchLevel(MatchLevel.STRICT);
         //Set baseline name
