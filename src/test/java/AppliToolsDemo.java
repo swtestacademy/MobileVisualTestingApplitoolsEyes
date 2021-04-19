@@ -43,7 +43,7 @@ public class AppliToolsDemo {
         //Setup of Applitools Eyes
         eyes = new Eyes();
         //Set API Key of Eyes
-        eyes.setApiKey("RQiNJdjsA4lxbk4bevRCo103hWdDPxU3xiQPp1023TSA5wI110");
+        eyes.setApiKey("YOUR API KEY");
         //Set Match Level
         eyes.setMatchLevel(MatchLevel.STRICT);
         //Set host operating System as our device
